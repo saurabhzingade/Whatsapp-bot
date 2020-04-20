@@ -5,4 +5,4 @@ The driver used is for mozilla firefox.
 You can use different drivers. Just change the driver that is needed. You need to download the driver of the browser that you actually want
 
 
-USe the command : pip install selenium to install selenium
+Use the command : pip install selenium to install selenium
